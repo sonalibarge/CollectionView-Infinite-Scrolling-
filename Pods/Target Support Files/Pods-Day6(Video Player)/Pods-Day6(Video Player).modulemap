@@ -1,0 +1,6 @@
+framework module Pods_Day6_Video_Player_ {
+  umbrella header "Pods-Day6(Video Player)-umbrella.h"
+
+  export *
+  module * { export * }
+}
